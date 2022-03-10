@@ -1,0 +1,6 @@
+body {background: #f9f9f9;color: #f9f9f9;font-size: 1rem;}
+h1 {text-align: center;margin:5px 0;font-size: 3rem;float:left;color: #000000;}
+.content {padding: 0 0 100px 400px;line-height:2rem;}
+a {text-decoration:none;color: #000000;margin-right:10px;letter-spacing: 1px;font-weight: 700;float:right;width: 120px;} 
+a:hover {text-decoration: underline;}
+span {font-weight: 700;position:relative;right:-550px;color: #000000;}
