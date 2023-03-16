@@ -1,2 +1,2 @@
 # JavaEE--
-小组合作完成的JavaEE项目
+网上书城JavaEE项目
